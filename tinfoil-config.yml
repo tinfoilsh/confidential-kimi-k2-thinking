@@ -25,6 +25,7 @@ containers:
       "--tool-call-parser", "kimi_k2",
       "--reasoning-parser", "kimi_k2",
       "--trust-remote-code",
+      "--no-enable-prefix-caching",
       "--port", "8001"
     ]
 
